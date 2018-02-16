@@ -1,0 +1,27 @@
+#output{
+    width:300px;
+    height:auto;
+    position:fixed;
+    top:calc(40vh - 140px);
+    left:45vw;
+    font:lighter 30px 'Karla', calibri;
+  }
+
+#buttonTrigger{
+    width:300px;
+    height:auto;
+    position:fixed;
+    top:calc(73vh - 140px);
+    left:45vw;
+    font:lighter 25px 'Karla', calibri;
+  }
+
+
+ #javascript{
+    width:300px;
+    height:auto;
+    position:fixed;
+    top:calc(80vh - 140px);
+    left:45vw;
+    font:lighter 20px 'Karla', calibri;
+}
