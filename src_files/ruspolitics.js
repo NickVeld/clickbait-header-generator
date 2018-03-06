@@ -16,7 +16,7 @@ $(document).ready(function(){
 					"Всплыл новый компромат на #personR#, #badthing#!",
 					"#personI#: << Мы будем преследовать #badpeople# везде. В аэропорту — в аэропорту. Значит, вы уж меня извините, в туалете поймаем, мы и в сортире их замочим, в конце концов.>>",
 					"#personI#: << У нас много #goodthing#!>>",
-					"#personI#: << #questionableassertiong#!>>",
+					"#personI#: << #questionableassertion#!>>",
 					"10% #something# не #someaction#. А вот 10% за #personR# - заставят это сделать!",
 					"#number# самых ярких пунктов программы #personR#",
 					"#personI# показал это... #youwontbelieve#",
