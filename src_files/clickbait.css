@@ -2,7 +2,7 @@
     width:300px;
     height:auto;
     position:fixed;
-    top:calc(70vh - 140px);
+    top:calc(30vh - 140px);
     left:15vw;
     font:lighter 30px 'Karla', calibri;
   }
@@ -29,7 +29,7 @@
     width:300px;
     height:auto;
     position:fixed;
-    top:calc(63vh - 140px);
+    top:calc(70vh - 140px);
     left:60vw;
     font:lighter 25px 'Karla', calibri;
   }
