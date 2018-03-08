@@ -1,4 +1,4 @@
 # clickbait-header-generator
-Web servise for the generation of clickbait headers.
+Web serviсe for the generation of clickbait headers.
 
 [Chech it here!](https://nickveld.github.io/clickbait-header-generator/)
